@@ -1,0 +1,50 @@
+[
+    {
+        "name": "HTML",
+        "image": "html.svg"
+    },
+    {
+        "name": "CSS",
+        "image": "css3.svg"
+    },
+    {
+        "name": "Scss",
+        "image": "sass.svg"
+    },
+    {
+        "name": "Java",
+        "image": "java.svg"
+    },
+    {
+        "name": "JavaScript",
+        "image": "javascript.svg"
+    },
+    {
+        "name": "TypeScript",
+        "image": "typescript.svg"
+    },
+    {
+        "name": "React",
+        "image": "react.svg"
+    },
+    {
+        "name": "Angular",
+        "image": "angular.svg"
+    },
+    {
+        "name": "Node",
+        "image": "nodejs.svg"
+    },
+    {
+        "name": "Express",
+        "image": "express.svg"
+    },
+    {
+        "name": "MySQL",
+        "image": "mysql.svg"
+    },
+    {
+        "name": "MongoDB",
+        "image": "mongodb.svg"
+    }
+]

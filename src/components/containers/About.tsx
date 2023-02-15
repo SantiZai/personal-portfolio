@@ -22,7 +22,7 @@ export const About = () => {
 						teamwork, decision making, project structuring, among
 						others.
 					</p>
-					<p className='my-6' style={{ letterSpacing: '.15rem' }}>These are some of my most <a style={{ color: '#C62368' }} href='#'>recent projects</a>.</p>
+					<p className='my-6' style={{ letterSpacing: '.15rem' }}>These are some of my most <a style={{ color: '#C62368' }} href='#projects'>recent projects</a>.</p>
 				</div>
 			</div>
 		</div>
