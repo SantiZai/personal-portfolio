@@ -1,0 +1,16 @@
+[
+    {
+        "name": "e - commerce",
+        "description": "This is an example for a e - commerce",
+        "technologies": ["nodejs.svg", "express.svg", "mysql.svg", "react.svg", "typescript.svg"],
+        "repo": "",
+        "preview": ""
+    },
+    {
+        "name": "e - commerce",
+        "description": "This is an example for a e - commerce",
+        "technologies": ["nodejs.svg", "express.svg", "mysql.svg", "react.svg", "typescript.svg"],
+        "repo": "",
+        "preview": ""
+    }
+]
