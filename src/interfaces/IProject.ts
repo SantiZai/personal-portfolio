@@ -3,5 +3,4 @@ export default interface IProject {
     description: string
     technologies: string[]
     repo: string
-    preview: string
 }

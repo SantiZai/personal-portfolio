@@ -3,7 +3,7 @@ import '../../styles/social.css'
 export const Social = () => {
 	return (
 		<div className='w-full text-white mx-auto my-12'>
-			<h3 className='text-4xl text-center mb-6 font-semibold' style={{ letterSpacing: '.15rem' }}>Contact me</h3>
+			<h3 className='mt-8 mb-14 text-white font-semibold text-4xl text-center' style={{ letterSpacing: '.15rem' }}>Contact me</h3>
 			<div className='container-social text-6xl w-full sm:w-3/4 flex flex-wrap justify-center items-center gap-12 m-auto rounded-md py-6 px-4'>
 				<a href='https://github.com/SantiZai'>
 					<i className='fa fa-github' aria-hidden='true'></i>

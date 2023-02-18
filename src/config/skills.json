@@ -1,13 +1,5 @@
 [
     {
-        "name": "HTML",
-        "image": "html.svg"
-    },
-    {
-        "name": "CSS",
-        "image": "css3.svg"
-    },
-    {
         "name": "Scss",
         "image": "sass.svg"
     },

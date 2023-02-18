@@ -1,6 +1,5 @@
 import { useEffect } from 'react'
 import { Navbar } from '../pures/Navbar'
-import '../../styles/header.css'
 import Typed from 'typed.js'
 
 export const Header = () => {

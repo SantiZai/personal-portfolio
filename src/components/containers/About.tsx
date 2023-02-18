@@ -3,6 +3,7 @@ import img from '../../assets/Lawn Tennis tribuna.jpeg'
 export const About = () => {
 	return (
 		<div className='w-full py-8' id='about'>
+			<h2 className='mt-6 mb-24 text-white font-semibold text-4xl text-center'>About me</h2>
 			<div className='container m-auto flex flex-col sm:flex-row justify-between items-center text-slate-300'>
 				<div className='w-3/4 sm:w-1/3'>
 					<img

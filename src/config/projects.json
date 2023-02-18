@@ -1,16 +1,38 @@
 [
     {
-        "name": "e - commerce",
-        "description": "This is an example for a e - commerce",
-        "technologies": ["nodejs.svg", "express.svg", "mysql.svg", "react.svg", "typescript.svg"],
-        "repo": "",
-        "preview": ""
+        "name": "eCommerce",
+        "description": "This is an example of an e-commerce created with vite, react and typescript on the front and node, express and mysql for the back, forming a complete sales page with various functionalities, such as login, sign-up, etc. others that will be added",
+        "technologies": ["react.svg", "typescript.svg", "nodejs.svg", "express.svg", "mysql.svg"],
+        "repo": "https://github.com/SantiZai/e-commerce-front"
     },
     {
-        "name": "e - commerce",
-        "description": "This is an example for a e - commerce",
-        "technologies": ["nodejs.svg", "express.svg", "mysql.svg", "react.svg", "typescript.svg"],
-        "repo": "",
-        "preview": ""
+        "name": "Hangman game",
+        "description": "Functional hangman game developed with JavaScript",
+        "technologies": ["html.svg", "css3.svg", "javascript.svg"],
+        "repo": "https://github.com/SantiZai/Juego-del-ahorcado"
+    },
+    {
+        "name": "Converter",
+        "description": "Application to convert currencies or temperatures designed with Java and Java Swing",
+        "technologies": ["java.svg"],
+        "repo": "https://github.com/SantiZai/Conversor-divisas"
+    },
+    {
+        "name": "To-Do list",
+        "description": "Classic to-do list with sort by date feature",
+        "technologies": ["html.svg", "css3.svg", "javascript.svg"],
+        "repo": "https://github.com/SantiZai/to-do-list"
+    },
+    {
+        "name": "Employees Rest API",
+        "description": "Rest API of employees with all CRUD operations to a MySQL database",
+        "technologies": ["javascript.svg", "nodejs.svg", "express.svg", "mysql.svg"],
+        "repo": "https://github.com/SantiZai/RestAPI-empleados"
+    },
+    {
+        "name": "Text encrypter",
+        "description": "Text encrypter/decrypter created with pure JavaScript",
+        "technologies": ["html.svg", "css3.svg", "javascript.svg"],
+        "repo": "https://github.com/SantiZai/Encriptador-SZ"
     }
 ]
